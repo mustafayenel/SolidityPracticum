@@ -1,2 +1,3 @@
 # SolidityPracticum
-Paribu Hub - Akıllı Sözleşme &amp; Solidity Practicum
+This Solidity code defines a bank application as an Ethereum smart contract. The application allows users to deposit and withdraw funds to and from their Ethereum addresses. It also allows users to check their balances and for only the contract owner to perform fund transfers. The code also uses a "Account" struct and an "accounts" array to store user's Ethereum addresses and balances. Additionally, it stores the address of the contract owner. When the contract is created, the person who creates it is automatically set as the contract owner.
+Paribu Hub - Akıllı Sözleşme & Solidity Practicum
